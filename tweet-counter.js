@@ -1,5 +1,5 @@
 $(function() {
-	var tw_search = encodeURIComponent('search terms here'),
+	var tw_search = encodeURIComponent('#houston'),
 	tw_tweet = $('.tw-tweet'),
 	tw_count = $('.tw-count'),
 	tw_username_open = '<span class="tw-username">',
